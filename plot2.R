@@ -4,7 +4,7 @@
 library(dplyr)
 
 #Set working directory, specifies the location of your working directory
-setwd("C:/Users/BillibaldoMartinezAr/Documents/Coursera_ExploratoryDataAnalysis/ExData_Plotting1.git/trunk")
+setwd("Specify working directory")
 
 #open data
 ds <- read.table("data/household_power_consumption.txt", header = TRUE, sep=";",
